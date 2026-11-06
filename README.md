@@ -4,7 +4,7 @@ A clickable prototype for a product case study. It redesigns the daily
 workflow of an RN case manager at a health plan, so less time goes to
 searching, reconciling and documenting, and more to patient conversations.
 
-Live demo: https://Priya-Y7.github.io/HiLabs-Product-Caselet/
+Live demo: [https://Priya-Y7.github.io/HiLabs-Product-Caselet/](https://priya-y7.github.io/HiLabs-Product-Caselet/)
 
 ## What it shows
 - Work Queue: members ranked by urgency, with the reason and next action
